@@ -1,7 +1,6 @@
 <center>
 <h2>Wechat Read Mode</h2>
 <p>网页版微信读书护眼配色多种模式选择，现已集成10种不同的颜色模式来供于你的阅读！</p>
-<br/>
 <div>
 <img src="./logo.png" alt="wechat-read-mode"/>
 </div>
